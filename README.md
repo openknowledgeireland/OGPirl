@@ -1,5 +1,5 @@
-OKF Ireland and Open Data Ireland submition to the 1st Irish OGP National Action Plan
-----------------------------------------------------------------------------------------
+##OKF Ireland and Open Data Ireland submission to the 1st Irish OGP National Action Plan
+
 Data is the new oil. It is the commodity of the digital universe and the smart economy, growing exponentially as entrepreneurs come up with greater ways to entwine our everyday lives with the digital world.
 It is estimated that between now and 2020 the amount of data created is set to grow by a factor of 44 as we consume and share more information with the digital world that is all around us. Consider the vast amounts of information we now share on Instagram, Facebook, Gmail and Twitter: Pictures, words, recordings, video - this information will become even greater as a world always connected through mobile apps will begin to eat into the analog world. 
 While the development and collection of personal data will continue to grow, it is public data (data held by government institutions and agencies) that will be the most important open data for two reasons: 
