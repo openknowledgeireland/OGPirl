@@ -1,8 +1,8 @@
 Draft OGP Action Plan Outline Version 2014-02-18
 
-# Draft for Discussion by Joint Working Group# 
-# Open Government Partnership #  
-# National Action Plan Outline #
+# Draft for Discussion by Joint Working Group
+# Open Government Partnership 
+# National Action Plan Outline#
 
 ## Introduction ##
 
@@ -26,18 +26,18 @@ Following a series of public meetings during summer 2013 involving civil society
 In February 2014 following a proposal from the civil society, a Joint Working Group (JWG) comprising officials of the Department of Public Expenditure and Reform, those of other relevant Government Departments and a number of volunteers representing civil society interests was established to meet on a weekly basis thereafter to develop Ireland’s first draft NAP.  A Forum for civil society interests and citizens was also established at that time to input into, guide and advise the preparation of the NAP and the work of the volunteers on the JWG.
 
 ## Open Government: Progress to Date ##
-Very substantial progress has been made in delivering a significant programme of reform initiatives many of which are included in the Programme for Government which dovetail closely with core OGP themes and objectives.  These include:- 
+Very substantial progress has been made in delivering a significant programme of reform initiatives many of which are included in the Programme for Government which dovetail closely with core OGP themes and objectives.  These include:
+
 * The Ombudsman Act, 2012 which results in the most significant expansion in the jurisdiction of the Ombudsman in the 30 years since the original Ombudsman legislation was enacted. 
 * The Houses of the Oireachtas Act, 2013 establishes a comprehensive statutory framework for the Oireachtas to conduct inquiries within the current constitutional framework.
-* Protected Disclosures legislation incorporating best practice international standards for whistleblower protection is currently being progressed through the Oireachtas.  
-The legislation will play a central role in safeguarding workers who speak up to raise concerns regarding wrongdoing in the workplace. 
+* Protected Disclosures legislation incorporating best practice international standards for whistleblower protection is currently being progressed through the Oireachtas.  The legislation will play a central role in safeguarding workers who speak up to raise concerns regarding wrongdoing in the workplace. 
 * The Regulation of Lobbying Bill which will establish a detailed and comprehensive framework for the regulation of lobbying is currently being drafted by the Office of the Chief Parliamentary and is expected to be published by mid-year. 
 * A project has commenced to overhaul ethics legislation in Ireland which will consolidate, modernise and update the current statutory framework as well as implement the recommendations relating to conflicts of interest contained in the final Report of the Mahon Tribunal. 
 * The commencement of the next stage in the Dáil reform programme will deliver real improvement to its examination of legislation and scrutiny of budgets and spending. It will also bring civil society, interest groups and experts into the process at an early stage. These reforms are part of a wider agenda to make parliament more effective and efficient, and to allow more scrutiny of the legislative process. It will also see the Government engaging more with the Oireachtas as well as greater involvement of Oireachtas committees in the budget process.
 * An extensive programme of local government reform is also underway. The Local Government Bill, 2013 will fundamentally reform the local government system in Ireland. The Bill provides for greater efficiency in local government, improvements to local government funding, accountability and governance, as well as providing for local government taking the lead in economic and community development.
 * As part of the programme of local government reform, a new National Oversight and Audit Commission for Local Government (NOAC) will be established to provide independent scrutiny of local government performance and in providing value for money for service delivery. NOAC reports will be made public and the Chief Executive will prepare an implementation plan to address any issues raised by the NOAC.
 * The powers of the Office of the Director of Corporate Enforcement were enhanced by the Criminal Justice Act 2011. Witnesses may now be compelled to provide certain documents and information. New categories of white – collar crime are also identified in the act, increasing the coverage of corrupt practices. 
-[footnote:   Elaine Byrne, Ireland annex to EC corruption report]
+  [footnote:   Elaine Byrne, Ireland annex to EC corruption report]
 * All government departments and offices are now publishing details of purchase orders over €20,000 on a quarterly basis.
 
 * *Data sharing across the public service* – The new Public Services Card will introduce a number of significant improvements including the incorporation of contactless ticketing chips for travel entitlement and new smart card technology. By the end of 2013, over 600,000 cards had been issued. It is intended that a cumulative target of three million cards will have been issued by the end of 2016.  Progress in 2013 to facilitate greater use and sharing of data included –

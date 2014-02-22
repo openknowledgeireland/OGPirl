@@ -1,6 +1,7 @@
 Draft Outline for Action Plan Version 2014-02-12
 
-# National Action Plan (NAP) Draft Outline #
+# National Action Plan (NAP) #
+# Draft Outline #
 
 ## 1. Introduction ##
 
