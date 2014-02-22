@@ -1,103 +1,164 @@
-Draft Outline for Action Plan Version 2014-02-12
+Draft OGP Action Plan Outline Version 2014-02-18
 
-# National Action Plan (NAP) #
-# Draft Outline #
+# Draft for Discussion by Joint Working Group
+# Open Government Partnership 
+# National Action Plan Outline#
 
-## 1. Introduction ##
+## Introduction ##
 
-* A paragraph explaining how involvement with the OGP is in line with the Government’s Programme and democratic values and expanding on the importance of Openness, Transparency, Accountability etc. to strengthening trust and confidence in government and public administration and also to facilitating constructive and positive dialogue with civil society and citizens. 
-* Consider inclusion of quotations from the Minister and representatives of civil society on the importance of the objectives of the OGP and the contribution it can make to national renewal.  
-* A paragraph or two outlining the role and involvement of civil society and the process of consultation which has seen Ireland arrive at its first action plan – a short description should be included of the civil society process including the three public meetings as well as the broader consultation process and call for submissions.
-* Confirm which of the OGP grand challenges are being pursued in particular in the first NAP.  A brief justification of the choice can also be made here – for example, in line with Government policy, impact, “fit” and prioritisation. 
-* A paragraph outlining that this action plan is a first step and has a central role in setting out agreed future direction of Ireland’s OGP participation and indicating the level of ambition intended for the second and subsequent NAPs.     
+Following strong engagement with a civic initiative advocating Ireland’s participation in Open Government Partnership (OGP), in May 2013 the Minister for Public Expenditure and Reform submitted, on behalf of the Irish Government, a letter of intent to participate in the OGP.  
 
-## 2. Open Government Efforts to Date ##
+The Government’s decision to seek membership of the OGP was based on the assessment that the aims of the OGP strongly reinforced and complemented the Government’s commitment to wide ranging-political reform reflected in the Programme for Government.
 
-We could consider following the Croatian example and set out the main achievements we have had to date to achieve Open Government across the four key areas in the civil society report (transparency, accountability, technology & innovation, citizen participation), drawing on, for example, the two progress reports published by the Department in the last couple of years and the overview document.  These might include:
-* The reform delivery programme (shared services, new and innovative service delivery channels, placing customer at the centre, efficiency reforms, accountability reform, major sectoral reforms etc.)
-* Legislative reforms such as FOI, Ombudsman Act, Anti-Corruption legislation,  Oireachtas reform, planning reforms  – taking examples from across the public service 
-* Citizen participation in national policy-making, in community development/planning at local level, adopting the Aarhus Convention etc.
-* Measures to strengthen accountability. 
+The continuing development of an open, transparent, accountable and ethical system of public administration consistent with the goals and objectives of the OPG is clearly integral to the ongoing process of rebuilding trust in government and in public institutions and underpinning national recovery.
 
-## 3. OGP Commitments ##
-We could draw from the UK template and set out for each theme the following details:
-* Commitment – one punchy sentence setting out what the commitment is
-* Impact and vision/Context – what will the impact be?  What will success look like?  What is the business case for doing this?
-* Timescales – commitment needs to be measurable.  What are key milestones for delivering it?
-* Lead Department
-* Civil society organisations/interests involved
-* Means – what additional resources will be needed and where will they come from?
-* Links to grand challenges
+As summarised in next section of this paper very significant progress has already been made in the area of political reform set out in the Programme of Government as well as in relation to a number of initiatives closely aligned to key themes of the OGP contained in the Public Service Reform Plan. 
 
-### Potential themes and commitments ###
+The OGP National Action Plan (NAP) is intended to provide renewed momentum and impetus to these reform efforts building on a period of very significant achievement.  The NAP identifies specific commitments corresponding to key elements of the OGP’s Grand Challenges that can contribute to the design and delivery of the new phase of the Government’s reforms.    
 
-#### 1. Open Data  ####
+These commitments drawing on the outcome of the outcome of the public consultation carried in summer 2013 may build on existing efforts, identify new steps to complete on-going reforms, or initiate action in new areas.   
 
-Open data has the potential to drive innovation and economic growth, improve public services, strengthen democracy, and increase transparency and accountability of government.  The G8 Open Data Charter, which was announced at the recent G8 Summit at Lough Erne, provides Ireland with a significant framework for its data-related OGP commitments.  The Charter embodies five core principles: Data should be open by default, of high quality, useable by all, contributing to improved governance, and promoting innovation. The Charter and its principles will act as a touchstone for key aspects of Ireland’s forthcoming OGP National Action plan. 
-The Minister announced a suite of measures at the OGP London Summit designed to provide major impetus to OGP objectives and Open Data in Ireland. The Minister announced that Ireland commits to:
-* signing up to the G8 Open Data Charter 
-* appointing an Irish Open Data Board in a governance role
-* building an Open Data Platform
-* establishing a Steering and Implementation Group 
+In securing full OGP participation, the Government is committed to developing its first National Action Plan through an active process of engagement and deliberation involving citizens and civil society interests.  Progress in this area is summarised in the following section. 
 
-The Minister’s proposals comprise an integrated programme of measures to provide a major impetus to the growth and development of Open Data in Ireland that can make a major contribution to enhancing openness and transparency, strengthening public governance and has the potential to yield substantial economic benefits.  
+## Engagement with Civil Society and Citizens ##
+Following a series of public meetings during summer 2013 involving civil society groups and citizens facilitated by Transparency International Ireland with funding support provided by the Department of Public Expenditure and Reform, a report outlining a number of proposals and recommendations for Ireland’s first OGP National Action Plan was submitted to the Minister in early-October 2013 and published.
 
-*Open Data*
+In February 2014 following a proposal from the civil society, a Joint Working Group (JWG) comprising officials of the Department of Public Expenditure and Reform, those of other relevant Government Departments and a number of volunteers representing civil society interests was established to meet on a weekly basis thereafter to develop Ireland’s first draft NAP.  A Forum for civil society interests and citizens was also established at that time to input into, guide and advise the preparation of the NAP and the work of the volunteers on the JWG.
 
-Recommendations contained in the Report of a Consultation with Civil Society Representatives and Citizens on Ireland’s Participation in the OGP 
-[Footnote:   Compiled by Transparency International Ireland and submitted to the Minister for Public Expenditure and Reform on 2 October 2013. http://www.ogpireland.ie/wp-content/uploads/2013/10/13-10-02-OGP_ConsultationReport_FINAL.pdf]
-that relate to this theme: 2.10, 3.01, 3.02, 3.03, 3.04, 3.05, 3.06, 3.07, 3.08, 3.10, 4.04, 4.07, 4.09 
+## Open Government: Progress to Date ##
+Very substantial progress has been made in delivering a significant programme of reform initiatives many of which are included in the Programme for Government which dovetail closely with core OGP themes and objectives.  These include:
 
-This theme also relates to aspects of a number of submissions submitted to D/PER by the following: Fingal County Council, The National Cross Industry Working Group on Open Data, Friends of the Irish Environment, Oliver Moran, Open Knowledge Foundation, IMO, Ombudsman. 
+* The Ombudsman Act, 2012 which results in the most significant expansion in the jurisdiction of the Ombudsman in the 30 years since the original Ombudsman legislation was enacted. 
+* The Houses of the Oireachtas Act, 2013 establishes a comprehensive statutory framework for the Oireachtas to conduct inquiries within the current constitutional framework.
+* Protected Disclosures legislation incorporating best practice international standards for whistleblower protection is currently being progressed through the Oireachtas.  The legislation will play a central role in safeguarding workers who speak up to raise concerns regarding wrongdoing in the workplace. 
+* The Regulation of Lobbying Bill which will establish a detailed and comprehensive framework for the regulation of lobbying is currently being drafted by the Office of the Chief Parliamentary and is expected to be published by mid-year. 
+* A project has commenced to overhaul ethics legislation in Ireland which will consolidate, modernise and update the current statutory framework as well as implement the recommendations relating to conflicts of interest contained in the final Report of the Mahon Tribunal. 
+* The commencement of the next stage in the Dáil reform programme will deliver real improvement to its examination of legislation and scrutiny of budgets and spending. It will also bring civil society, interest groups and experts into the process at an early stage. These reforms are part of a wider agenda to make parliament more effective and efficient, and to allow more scrutiny of the legislative process. It will also see the Government engaging more with the Oireachtas as well as greater involvement of Oireachtas committees in the budget process.
+* An extensive programme of local government reform is also underway. The Local Government Bill, 2013 will fundamentally reform the local government system in Ireland. The Bill provides for greater efficiency in local government, improvements to local government funding, accountability and governance, as well as providing for local government taking the lead in economic and community development.
+* As part of the programme of local government reform, a new National Oversight and Audit Commission for Local Government (NOAC) will be established to provide independent scrutiny of local government performance and in providing value for money for service delivery. NOAC reports will be made public and the Chief Executive will prepare an implementation plan to address any issues raised by the NOAC.
+* The powers of the Office of the Director of Corporate Enforcement were enhanced by the Criminal Justice Act 2011. Witnesses may now be compelled to provide certain documents and information. New categories of white – collar crime are also identified in the act, increasing the coverage of corrupt practices. 
+  [footnote:   Elaine Byrne, Ireland annex to EC corruption report]
+* All government departments and offices are now publishing details of purchase orders over €20,000 on a quarterly basis.
 
-####2.	Political reform ####
+* *Data sharing across the public service* – The new Public Services Card will introduce a number of significant improvements including the incorporation of contactless ticketing chips for travel entitlement and new smart card technology. By the end of 2013, over 600,000 cards had been issued. It is intended that a cumulative target of three million cards will have been issued by the end of 2016.  Progress in 2013 to facilitate greater use and sharing of data included –
+* * The drafting of a data sharing and governance bill to mandate greater data sharing and linking in the public service
+* * The publication of a health identifiers Bill to enable the introduction of universal and unique health identifiers for patients and service providers
+* * Approval of the roll out of a new National Postcode Scheme by 2015.
+* The Department of the Environment, Community and Local Government recently set up a working group on citizen engagement that will make recommendations on more extensive and diverse input by citizens into the decision-making process and will allow for citizen input to be facilitated in local government decision making.
+* The ongoing Constitutional Convention is a major venture in participative democracy. The Convention is a decision making forum of 100 people, including 66 randomly selected citizens. It is tasked with considering certain aspects of the Constitution to ensure that it is fully equipped for the 21st Century and with making recommendations to the Oireachtas on future constitutional amendments which will be put to the people in referendums.
+* Budgetary Reforms 
+* Etc.
 
-* The regulation of lobbying - General Scheme of the Regulation of Lobbying Bill 2014. 
+## Structured Themes (specific actions/commitments will come under each theme):## 
 
-* The publication of a consultation paper on strengthening civil service accountability and performance - an extensive public consultation process has been initiated, led by the Independent Panel on Strengthening Civil Service Accountability and Performance. The aim of this process is to bring about change and reform to the current accountability arrangements. This consultation process will assess how greater clarity, certainty and common understanding can be achieved regarding who is accountable to whom for what in the Civil Service.  
+###1.	Open Data and Transparency – opening up Government data for greater accountability, improving public services and achieving economic growth ###
+Opening up Government data has the potential to drive innovation and economic growth, improve public services, and strengthen democracy, and increase transparency and accountability of government.  The integrated programme of measures to be progressed will include 
 
-* An overhaul of the ethics legislation is being progressed aimed at supporting and promoting ethical conduct, creating an environment in which ethical and conflict of interests are managed effectively and corrupt and unethical conduct are severely discouraged. This will also implement relevant recommendations contained in the Final Report of the Tribunal of Inquiry into Certain Planning Matters and Payments, also referred to as the Mahon Tribunal, as appropriate. 
+(i) signing up to the Open Data Charter which will involve inter alia making our government data open by default and ensuring data released is not only timely but of high quality;  
+(ii) identification of datasets which will have the broadest impact and highest value; and 
+(iii) developing and updating a single source www.data.gov.ie from which public data can be accessed.  
 
-* Criminal Justice (Corruption) Bill 2013
+Increased transparency is at the heart of the Government’s reform programme and these measures will enable the public to hold Government accountable for its performance, use data to identify best practice, encourage the public sector to improve productivity and quality and help citizens make more informed choices.  Making data available to businesses will promote development of innovative products and services and drive economic growth.  Open Data leading to more open, transparent and accountable Government is a major programme of work with the potential to reap significant benefits.   
 
-* Oireachtas Reforms
+#### Commitment 1 - Signing up to the Open Data Charter ####
+Impact and vision/context
 
-* Reform(s) of the legislative process 
+Timescales – commitment needs to be measurable.  What are key milestones for delivering it?
 
+Lead Department: The D/Public Expenditure and Reform but other Departments/public bodies would also have a major role to play
 
-*Political reform*
+Civil society organisations(s) involved
+
+Means – what additional resources will be need and where will they come from?
+
+Links to grand challenges
+
+####Commitment 2 - Audit of datasets####
+
+####Commitment 3 - Development of an Open Data Platform####
+####Commitment 4 – Establishment of an Open Data Governance Board####
+####Commitment 5 – Establishment of a Steering and Implementation Group####
+Etc 
 
 Recommendations contained in the Report of a Consultation with Civil Society Representatives and Citizens on Ireland’s Participation in the OGP
-[footnote:   Compiled by Transparency International Ireland and submitted to the Minister for Public Expenditure and Reform on 2 October 2013. http://www.ogpireland.ie/wp-content/uploads/2013/10/13-10-02-OGP_ConsultationReport_FINAL.pdf]
-that relate to this theme: 1.01, 1.06, 1.07, 1.09, 4.05, 4.06, 4.11, 4.15, 4.18
+[footnote: Compiled by Transparency International Ireland and submitted to the Minister for Public Expenditure and Reform on 2 October 2013. http://www.ogpireland.ie/wp-content/uploads/2013/10/13-10-02-OGP_ConsultationReport_FINAL.pdf]
+which relate to this theme:
 
-This theme also relates to aspects contained in the submission submitted to D/PER by the Ombudsman.
+2.10, 3.01, 3.02, 3.03, 3.04, 3.05, 3.06, 3.07, 3.08, 3.10, 4.04, 4.07, 4.09 
 
-####3.	Improving public services and strengthening citizen participation ####
 
-* Reference measures in the Public Service Reform Plan, for example:
-* * 1.1.5 – ‘Pilots will be implemented using new service delivery structures, such as employee mutual and joint ventures, once thorough business cases confirm their value.
-* * 1.3.1 – Identify customer improvements to be implemented at organisational level, as this is where most customer interaction takes place e.g. the new Local Government portal localgov.ie will facilitate one stop shop access for all citizens to all local authority services.  New Local Enterprise Offices will provide “first-stop-shops” for the micro-enterprise and small business sector to avail of enterprise support services, other direct business supports and co-ordinated access to other services for business.
-* * 1.3.2 – Strengthen the effectiveness and quality of Customer Charters with further roll-out to agencies and ensure Departments/Offices develop ambitious customer charters and accompanying customer service improvement action plans.
-* * 1.3.3 – Improve the accessibility of information to the citizen - Continue to centrally promote the benefits of the use of plain language including through guidelines, training and other supports. All Public Bodies should commit, including in their Customer Charters, to making information more accessible to the citizen and particularly to maximising the use of plain language in letters, application forms, information leaflets etc.
-* * 1.3.4 – Improve levels of engagement with citizens – e.g. undertake organisational level surveys of customers at least once every two years.  Increase the level of customer engagement through a range of mechanisms including the use of social media, mobile access devices, focus / user groups, surveys, meetings / seminars and consultation processes.
-* Dáil Reforms in relation to Citizen Participation
-* Citizens’ complaints – a harmonised system
-* Reference initiatives being carried out at Local Government level and by the Department of Children and Youth Affairs. 
+This theme also relates to aspects of a number of submissions submitted to D/PER by the following: Fingal County Council, The National Cross Industry Working Group on Open Data, Friends of the Irish Environment, Oliver Moran and the Open Knowledge Foundation.
 
-*Improving public services and strengthening citizen participation*
+###2.	Fostering citizen participation/more active citizenship – Greater citizen consultation and involvement to strengthen democracy and improve public services###
+More active consultation and participation of citizens in public administration can lead to increased oversight and accountability in government at both national and local level.  For these reasons, citizens, elected representatives, and other interested individuals or groups are increasingly invited to input into the preparation of policy and legislation, through written submissions or public meetings, and feedback from these public consultations informs and contributes significantly to this process. Dáil Reforms, including the introduction of a new pre-legislative stage for all non-emergency legislation, will open up the law-making process to public and civil society involvement prior to legislation being drafted. 
 
-Recommendations contained in the Report of a Consultation with Civil Society Representatives and Citizens on Ireland’s Participation in the OGP 
-[footnote:   Compiled by Transparency International Ireland and submitted to the Minister for Public Expenditure and Reform on 2 October 2013. http://www.ogpireland.ie/wp-content/uploads/2013/10/13-10-02-OGP_ConsultationReport_FINAL.pdf]
-that relate to this theme: 2.01, 2.09, 2.11, 2.16, 3.09, 4.08, 4.09
+Citizens can also influence the working of local government by taking a more active part in their local community through participation for example in local community development groups, with a view to improving their local area and public service delivery.  Local Government Reform will lead to engagement with and participation by communities and individuals in local government and will enhance local authority involvement in economic and community development.
 
-This theme also relates to aspects contained in a number of submissions submitted to D/PER by the following: IMO, Fingal County Council, Ombudsman.
+The proposals in this area will seek to deliver a more efficient public service which will be manifestly fit for purpose as well as enhancing citizen participation in legislative and other 
+decision-making at local and national level. Taken together, these measures represent a new maturity in the approach to Governments relationship with the citizen. 
 
-## Annex 1 ##
-A table visualising the commitments can be inserted in Annex 1. 
-Theme 1
+####Commitment 1 – Customer improvements to be implemented ####
 
-Commitment | Impact	| Responsible Department | 	Civil society bodies involved |	Timescales and Milestones |
---- | ---| ---| ---| --- |
-Creation of data.gov.ie |	Précis of text in body of plan	| | | |	
+Identify customer improvements to be implemented at organisational level, as this is where most customer interaction takes place e.g. the new Local Government portal logalgov.ie will facilitate one stop shop access for all citizens to all local authority services.  New Local Enterprise Offices will provide “first-stop-shops” for the micro-enterprise and small business sector to avail of enterprise support services, other direct business supports and co-ordinated access to other services for business.  
+
+####Commitment 2 - Improve the accessibility of information to the citizen ####
+Promote the benefits of the use of plain language including through guidelines, training and other supports. All Public Bodies should commit, including in their Customer Charters, to making information more accessible to the citizen and particularly to maximising the use of plain language in letters, application forms, information leaflets etc.  
+
+####Commitment 3 – Strengthen engagement with citizens####
+e.g. Role of technology? Increased consultation? Harmonised system of citizen complaints? 
+
+####Commitment 4 – Encouraging increased citizen consultation in decision-making####
+
+e.g. Dail Reforms in relation to citizen participation
+
+
+
+Recommendations contained in the Report of a Consultation with Civil Society Representatives and Citizens on Ireland’s Participation in the OGP
+[footnote: Compiled by Transparency International Ireland and submitted to the Minister for Public Expenditure and Reform on 2 October 2013. http://www.ogpireland.ie/wp-content/uploads/2013/10/13-10-02-OGP_ConsultationReport_FINAL.pdf]
+which relate to this theme:
+
+2.01, 2.09, 2.11, 2.16, 3.09, 4.08, 4.09
+
+###3.	Rebuilding public trust in Government - strengthening governance and accountability ###
+The existence of adequate and effective arrangements for governance and accountability within the civil service and between the civil service, the political level and citizens generally is one of the fundamental elements of a democratic system of government.   As detailed in the Nyberg Commission of Investigation, the Honohan and Nyberg / Watson
+
+Reports, the financial and fiscal crisis exposed major weaknesses and failures in government, public administration, regulation and the media / public debate.  Significant progress has been made to rebuild capacity, improve governance and restore trust.   Building on the Government’s programme of political reform initiatives, a number of initiatives will be progressed and given further impetus as part of this National Action Plan leading to a more open, transparent and responsive Government and the restoration of public trust.  
+
+####Commitment 1 - Civil Service Accountability####
+Impact and vision/context
+The paper on Civil Service Accountability is designed to strengthen civil service accountability by bringing greater certainty and common understanding of the relationships between Ministers and civil servants and to clarify who is accountable to whom within the complex administrative public system.  Examination of the current restrictions on civil servants giving evidence to Oireachtas Committees and the development of a position paper identifying the necessary changes to deliver this objective will result in further strengthening of Oireachtas Committees’ ability to hold civil servants accountable.   
+
+Timescales – commitment needs to be measurable.  What are key milestones for delivering it?
+
+Lead Department: The D/Public Expenditure and Reform
+
+Civil society organisations(s) involved
+
+Means – what additional resources will be need and where will they come from?
+
+Links to grand challenges
+
+####Commitment 2 – Ethics Reform  ####
+Impact and vision/context
+The overhaul and reform of the ethics framework will support and promote ethical conduct, and will create an environment in which conflicts of interests are managed effectively and corrupt and unethical conduct are severely discouraged.  It will also implement relevant recommendations contained in the Final report of the Tribunal of Inquiry Into Certain Planning Matters and Payments.  The Criminal Justice (Corruption) Bill 2013 will result in reforming the law in relation to the prevention of corruption.  
+
+Timescales – commitment needs to be measurable.  What are key milestones for delivering it?
+
+Lead Department: The D/Justice and Equality
+Civil society organisations(s) involved
+Means – what additional resources will be need and where will they come from?
+Links to grand challenges
+
+####Commitment 3 – Reforms to improve the functioning of the Oireachtas  ####
+While a number of Dail reforms have already been introduced, a new wave of Dail reforms as well as Oireachtas Committee reforms including a new post-enactment review by Committees on the functioning of legislation will be highlighted and given impetus in this plan.  The findings of the Convention….    
+Etc
+
+####Commitment 4 – Regulation on Lobbying####
+etc
+
+Recommendations contained in the Report of a Consultation with Civil Society Representatives and Citizens on Ireland’s Participation in the OGP
+[footnote: Compiled by Transparency International Ireland and submitted to the Minister for Public Expenditure and Reform on 2 October 2013. http://www.ogpireland.ie/wp-content/uploads/2013/10/13-10-02-OGP_ConsultationReport_FINAL.pdf]
+which relate to this theme:
+
+1.01, 1.06, 1.07, 1.09, 4.05, 4.06, 4.11, 4.15, 4.18
 
